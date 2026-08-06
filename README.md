@@ -42,6 +42,7 @@ The final output provides a reliable way to Profit growth.
 ## 🛠 Technologies Used
 
 - Python
+- Jupyter notebook (Libaries is Sklearn,pandas,numpy,matplotlib.pyplot,seaborn)
 - Power BI
 
 ---
@@ -52,7 +53,7 @@ The final output provides a reliable way to Profit growth.
 2. Data Cleaning using python
 3. Data Visualization
 4. Insights & Recommendations
-5. python machine Learning Model
+5. Price prediction using LinerRegressiong Model 
 
 ---
 
