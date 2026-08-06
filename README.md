@@ -11,9 +11,9 @@ The final output provides a reliable way to Profit growth.
 ## 🎯 Objectives
 
 - Analyze Sales and Profit values.
-- Identify Profit and Sales from Dataset
+- Identify Profit and Sales from order_status column.
 - Track monthly Sales and Profit
-- Understand Customer Sales and Profit.
+- Understand Customer Sales and Profit values.
 
 ---
 
@@ -49,7 +49,7 @@ The final output provides a reliable way to Profit growth.
 ## 📈 Data Analysis Process
 
 1. Data Collection
-2. Data Cleaning
+2. Data Cleaning using python
 3. Data Visualization
 4. Insights & Recommendations
 5. python machine Learning Model
@@ -58,10 +58,15 @@ The final output provides a reliable way to Profit growth.
 
 ## 📊 Key Insights
 
-- defects task is increased by 27.78% during September month.
-- Departement is generated the highest Defects.
-- Office location Austalia had the highest Quality Score.
-- Repeat Manager contributed more than 40% of total Quality Score.
+- Sales is increased by 0.44% during January month.-2024
+- Profit is increased by 0.46% during January month.-2024
+- Sales is increased by 0.47% during March to April Month-2025
+- Profit is increased by 0.47% during January and April Month-2025
+- Books Product is generated the Highest Profit.
+- Fashion Category is generated the Highest Profit.
+- Shoes Product is generated the Highest Sales.
+- Fashion Category is generated the Highest Sales.
+- Phone Product is Profit margin 13.33%.
 
 ---
 
