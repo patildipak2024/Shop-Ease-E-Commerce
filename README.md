@@ -52,6 +52,7 @@ The final output provides a reliable way to Profit growth.
 2. Data Cleaning
 3. Data Visualization
 4. Insights & Recommendations
+5. python machine Learning Model
 
 ---
 
@@ -75,7 +76,6 @@ The final output provides a reliable way to Profit growth.
 - Built an interactive dashboard
 - Improved reporting accuracy
 - Generated business insights from historical data
-- In python add machine Learning Model
 
 ---
 
